@@ -7,4 +7,5 @@ In this project, I classify news data as either fake or real. The dataset is div
 4. Gradient Boosting
 5. Naive Bayes
 6. Support Vector Machine (SVM)
+   
 I also visualized the performance of each model by plotting confusion matrices. The results show that the Random Forest model performs significantly better compared to the other models.
